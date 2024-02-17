@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_fs",
+  "version": "1.0.0",
+  "description": "Proyecto para crear una aplicación web utilizando las tecnologías de React, node.js y MongoDB, para ampliar el conocimiento y la experiencia en este tipo de proyectos Full-stack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
